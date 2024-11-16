@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Desh Homepage"
+title                    : "Desh's Homepage"
 title_separator          : "-"
 name                     : &name "Desh Iyer"
 description              : &description "personal description"
