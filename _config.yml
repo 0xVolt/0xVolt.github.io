@@ -22,21 +22,21 @@ repository               : "0xVolt/0xVolt.github.io"
 author:
   # Biographic information
   avatar           : "desh-profile-picture.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Desh Iyer"
+  pronouns         : "he/him"  
+  bio              : "Machine Learning and Distributed Computing Researcher in High-Energy Physics"
+  location         : "Bangalore, India"
+  employer         : "High Energy Accelerator Research Organization, KEK, JP"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "desh.iyer@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0005-2141-8806"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
